@@ -22,8 +22,7 @@ function App() {
   ])
 
   const addNewExpenseHandler = (data) => {
-    // const updatedExpenses = [...expenses];
-    // updatedExpenses.push(data);
+
     setExpenses(prevState => [...prevState, data]);
   };
 
