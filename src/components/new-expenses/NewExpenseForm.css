@@ -1,0 +1,13 @@
+.formContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 780px;
+    /* height: 91px; */
+
+background: #AD9BE9;
+border-radius: 12px;
+padding-top: 2rem;
+
+padding-bottom: 2rem;
+}

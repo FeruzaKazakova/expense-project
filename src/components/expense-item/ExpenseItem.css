@@ -1,0 +1,58 @@
+.expenseItemContainer{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  width: 748px;
+  height: 104px;
+  background: #4B4B4B;
+  border-radius: 12px;
+  color: white;
+}
+.dateContainer{
+    margin-top: 12px;
+    margin-left: 1rem;
+    box-sizing: border-box;
+    width: 82.11px;
+    height: 80px;
+    background: #2A2A2A;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    text-align: center;
+}
+.dateContainer > p{
+    margin-top: 4px;
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+}
+.dateDay{
+    font-weight: 800 !important;
+    font-size: larger !important;
+}
+.title{
+    margin-right: 10px;
+    margin-top: 41px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+
+.priceContainer{
+    width: 112px;
+    height: 44px;
+    text-align: center;
+    margin-right: 10px;
+
+    background: #40005D;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: auto;
+}
+.price{
+    margin-top: 10px;
+}

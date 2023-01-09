@@ -1,0 +1,28 @@
+.mainContainer {
+    display: flex;
+    flex-direction: row;  
+    flex-wrap: wrap;  
+    margin-top: 30px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+margin-bottom: 8px;
+color: #000000;
+}
+input{
+    width: 340px;
+    height: 39px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    border: 0px;
+}
+input:active{
+    border: 1px solid #3F3F3F;
+}

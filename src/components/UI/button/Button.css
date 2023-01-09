@@ -1,0 +1,23 @@
+.btn{
+background: #4A026B;
+border-radius: 10px;
+border:#4A026B;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 0.9rem;
+line-height: 19px;
+
+color: #FFFFFF;
+
+cursor: pointer;
+height: 51px;
+margin-right: 10px;
+}
+.btn:hover{
+    background-color: #600A87;
+}
+.btn:active{
+    background-color: #520B73;
+}
